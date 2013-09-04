@@ -1,0 +1,13 @@
+*/target/*
+*/.project
+*/.classpath
+.project
+.settings/*
+*/.settings/*
+*/.externalToolBuilders/*
+
+*/nbactions.xml
+nbactions.xml
+*/*.versionsBackup
+/target/
+*~
